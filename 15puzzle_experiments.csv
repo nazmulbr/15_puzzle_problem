@@ -1,0 +1,4 @@
+scramble_moves,dfs_time_sec,dp_time_sec,bfs_time_sec,astar_time_sec,dfs_nodes,dp_nodes,bfs_nodes,astar_nodes
+5,0.01,0.02,0.005,0.003,50,40,30,20
+10,0.05,0.08,0.02,0.01,300,250,500,120
+14,0.2,0.3,0.1,0.05,2000,1800,4000,800
